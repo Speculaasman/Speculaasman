@@ -4,7 +4,7 @@
 
 I thrive at the intersection of complex biological data and intuitive user experiences. Whether I'm training ML models to decode EEG signals or designing seamless frontends, I build technology that connects people and explains the complex. 
 
-## 🔭 Current Work:
+## Current Work 🔭
 - **Biomedical Data & ML:** I focus on understanding, examining, and explaining complex biological data, particularly through EEG and Machine Learning.
 - **Full-Stack & UX:** I particularly enjoy translating heavy database architecture into clean and accessible UI/UX. 
 - **Collaboration:** Flexible team player who is equally comfortable building quietly in the background as well as leading a complex multidisciplinary problem.
@@ -31,10 +31,10 @@ I thrive at the intersection of complex biological data and intuitive user exper
 <br>
 
 
-## 🌲 About Myself
+## About Myself 🌲
 Having spend a few of my early childhood years in Switzerland taught me how to adapt to new cultures and build bridges between people. Something I still to this day carry into my multidisciplinary work. When I'm offline, you can find me:
-- 📸 Enjoying photography  
-- 🏕️ Exploring nature and the outdoors
+- Enjoying photography 📸
+- Exploring nature and the outdoors 🏕️
 
 <!--
 **Speculaasman/Speculaasman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
