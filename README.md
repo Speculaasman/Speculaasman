@@ -1,14 +1,13 @@
 ## Hi there 👋
 
-**Biomedical Engineer | EEG & Machine Learning | UX Enthusiast**
+**Biomedical Engineer | EEG Cluster Lead & Treasurer @ Team HART**
 
 I thrive at the intersection of complex biological data and intuitive user experiences. Whether I'm training ML models to decode EEG signals or designing seamless frontends, I build technology that connects people and explains the complex. 
 
-### 🔬 What I Do
+### 🔭 Current Workflow:
 - **Biomedical Data & ML:** I focus on understanding, examining, and explaining complex biological data, particularly through EEG and Machine Learning.
-- **Full-Stack & UX:** I bridge the gap between heavy database architecture and clean, accessible UI/UX. 
-- **Collaboration:** A flexible team player who is equally comfortable building quietly in the background or stepping up to guide a team's vision.
-
+- **Full-Stack & UX:** I particularly enjoy translating heavy database architecture into clean and accessible UI/UX. 
+- **Collaboration:** Flexible team player who is equally comfortable building quietly in the background as well as leading a complex multidisciplinary problem.
 
 
 ## Tech Stack 💻
@@ -33,7 +32,7 @@ I thrive at the intersection of complex biological data and intuitive user exper
 <br>
 
 📫 How to reach me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_LINKEDIN_URL]) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/[YOUR_INSTAGRAM_HANDLE])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elmo-brack-793909317/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/elmocaptures)
 
 ### 🌲 Beyond the Screen
 Growing up partly in Switzerland taught me how to adapt to new cultures and build bridges between people and their respected skillsets. Something I carry into my multidisciplinary work. When I'm offline, you can find me:
