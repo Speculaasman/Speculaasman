@@ -11,7 +11,6 @@ I thrive at the intersection of complex biological data and intuitive user exper
 
 
 ## Tech Stack 💻
----
 
 **1. Languages & Scripting**
 
@@ -32,7 +31,7 @@ I thrive at the intersection of complex biological data and intuitive user exper
 <br>
 
 
-### 🌲 About Me
+### 🌲 About Myself
 Having spend a few of my early childhood years in Switzerland taught me how to adapt to new cultures and build bridges between people. Something I still to this day carry into my multidisciplinary work. When I'm offline, you can find me:
 - 📸 Enjoying photography  
 - 🏕️ Exploring nature and the outdoors
