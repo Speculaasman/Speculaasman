@@ -9,7 +9,6 @@ I thrive at the intersection of complex biological data and intuitive user exper
 - **Full-Stack & UX:** I bridge the gap between heavy database architecture and clean, accessible UI/UX. 
 - **Collaboration:** A flexible team player who is equally comfortable building quietly in the background or stepping up to guide a team's vision.
 
-## Tech Stack 💻
 ---
 
 ## Tech Stack 💻
