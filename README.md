@@ -1,4 +1,4 @@
-## Hi, I'm Elmo! 
+<h2 align="center">Hi, I'm Elmo! 👋</h2>
 
 <p align="center">EEG Lead & Treasurer @ <a href="https://teamhart.nl">Team HART</a> (Human Augmentation Research & Technology, TU/e)</p>
 
