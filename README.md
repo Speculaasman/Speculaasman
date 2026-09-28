@@ -2,7 +2,7 @@
 
 <p align="center">EEG Lead & Treasurer @ <a href="https://teamhart.nl">Team HART</a> (Human Augmentation Research & Technology, TU/e)</p>
 
-I thrive at the intersection of complex biological data and intuitive user experiences. Whether I'm training ML models to decode EEG signals or designing seamless frontends, I build technology that connects people and explains the complex. 
+<p align="center">I thrive at the intersection of complex biological data and intuitive user experiences. Whether I'm training ML models to decode EEG signals or designing seamless frontends, I build technology that connects people and explains the complex.</p>
 
 <br>
 
@@ -35,7 +35,7 @@ I thrive at the intersection of complex biological data and intuitive user exper
 
 
 ## About Myself 🌲
-Having spend a few of my early childhood years in Switzerland taught me how to adapt to new cultures and build bridges between people. Something I still to this day carry into my multidisciplinary work. When I'm offline, you can find me:
+Having spent a few of my early childhood years in Switzerland taught me how to adapt to new cultures and build bridges between people. Something I still to this day carry into my multidisciplinary work. When I'm offline, you can find me:
 - Enjoying photography 📸
 - Exploring nature and the outdoors 🏕️
 
