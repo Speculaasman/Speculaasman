@@ -4,11 +4,14 @@
 
 I thrive at the intersection of complex biological data and intuitive user experiences. Whether I'm training ML models to decode EEG signals or designing seamless frontends, I build technology that connects people and explains the complex. 
 
+<br>
+
 ## Current Work 🔭
 - **Biomedical Data & ML:** I focus on understanding, examining, and explaining complex biological data, particularly through EEG and Machine Learning.
 - **Full-Stack & UX:** I particularly enjoy translating heavy database architecture into clean and accessible UI/UX. 
 - **Collaboration:** Flexible team player who is equally comfortable building quietly in the background as well as leading a complex multidisciplinary problem.
 
+<br>
 
 ## Tech Stack 💻
 
@@ -18,7 +21,7 @@ I thrive at the intersection of complex biological data and intuitive user exper
 
 **2. Databases & Web Interfaces**
 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) ![Web Interfaces](https://img.shields.io/badge/-Web_Interfaces-00C4CC?logoColor=white) ![Information Architecture](https://img.shields.io/badge/-Information_Architecture-4B0082?logoColor=white) ![Dashboard Design](https://img.shields.io/badge/-Dashboard_Design-FF6C37?logoColor=white) ![Data Presentation](https://img.shields.io/badge/-Data_Presentation-005C84?logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) ![Web Interfaces](https://img.shields.io/badge/-Web_Interfaces-00C4CC?logoColor=white) ![Information Architecture](https://img.shields.io/badge/-Information_Architecture-4B0082?logoColor=white) ![Data Presentation](https://img.shields.io/badge/-Data_Presentation-005C84?logoColor=white)
 
 **3. Biomedical Signals & ML**
 
