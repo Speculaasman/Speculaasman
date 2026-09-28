@@ -15,11 +15,11 @@ I thrive at the intersection of complex biological data and intuitive user exper
 
 ## Tech Stack 💻
 
-**1. Languages & Scripting**
+**1. Languages**
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white)
 
-**2. Databases & Web Interfaces**
+**2. Databases & Data Management**
 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) ![Web Interfaces](https://img.shields.io/badge/-Web_Interfaces-00C4CC?logoColor=white) ![Information Architecture](https://img.shields.io/badge/-Information_Architecture-4B0082?logoColor=white) ![Data Presentation](https://img.shields.io/badge/-Data_Presentation-005C84?logoColor=white)
 
