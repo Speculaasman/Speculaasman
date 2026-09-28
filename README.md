@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi, I'm Elmo! 
 
 **Biomedical Engineer | EEG Cluster Lead & Treasurer @ Team HART**
+
+<p align="center">EEG Lead & Treasurer @ <a href="https://teamhart.nl">Team HART</a> (Human Augmentation Research & Tech, TU/e)</p>
 
 I thrive at the intersection of complex biological data and intuitive user experiences. Whether I'm training ML models to decode EEG signals or designing seamless frontends, I build technology that connects people and explains the complex. 
 
@@ -31,12 +33,10 @@ I thrive at the intersection of complex biological data and intuitive user exper
 
 <br>
 
-📫 How to reach me:  
-[![LinkedIn](https://img.shields.io/badge/-%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elmo-brack-793909317/) [![Instagram](https://img.shields.io/badge/-%20-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/elmocaptures)
 
-### 🌲 Beyond the Screen
-Growing up partly in Switzerland taught me how to adapt to new cultures and build bridges between people and their respected skillsets. Something I carry into my multidisciplinary work. When I'm offline, you can find me:
-- 📸 Capturing life through photography  
+### 🌲 About Me
+Having spend a few of my early childhood years in Switzerland taught me how to adapt to new cultures and build bridges between people. Something I still to this day carry into my multidisciplinary work. When I'm offline, you can find me:
+- 📸 Enjoying photography  
 - 🏕️ Exploring nature and the outdoors
 
 <!--
