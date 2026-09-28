@@ -32,7 +32,7 @@ I thrive at the intersection of complex biological data and intuitive user exper
 <br>
 
 📫 How to reach me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elmo-brack-793909317/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/elmocaptures)
+[![LinkedIn](https://img.shields.io/badge/-%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elmo-brack-793909317/) [![Instagram](https://img.shields.io/badge/-%20-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/elmocaptures)
 
 ### 🌲 Beyond the Screen
 Growing up partly in Switzerland taught me how to adapt to new cultures and build bridges between people and their respected skillsets. Something I carry into my multidisciplinary work. When I'm offline, you can find me:
