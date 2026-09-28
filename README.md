@@ -1,8 +1,6 @@
 ## Hi, I'm Elmo! 
 
-**Biomedical Engineer | EEG Cluster Lead & Treasurer @ Team HART**
-
-<p align="center">EEG Lead & Treasurer @ <a href="https://teamhart.nl">Team HART</a> (Human Augmentation Research & Tech, TU/e)</p>
+<p align="center">EEG Lead & Treasurer @ <a href="https://teamhart.nl">Team HART</a> (Human Augmentation Research & Technology, TU/e)</p>
 
 I thrive at the intersection of complex biological data and intuitive user experiences. Whether I'm training ML models to decode EEG signals or designing seamless frontends, I build technology that connects people and explains the complex. 
 
