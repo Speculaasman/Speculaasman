@@ -9,14 +9,24 @@ I thrive at the intersection of complex biological data and intuitive user exper
 - **Full-Stack & UX:** I bridge the gap between heavy database architecture and clean, accessible UI/UX. 
 - **Collaboration:** A flexible team player who is equally comfortable building quietly in the background or stepping up to guide a team's vision.
 
-### 💻 Tech Stack
-**1. Languages**
+## Tech Stack 💻
+---
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+**1. Languages & Scripting**
 
-**2. Databases**
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white)
+
+**2. Databases & Visualization**
 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
+
+**3. Biomedical Signals & ML**
+
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white) ![Signal Processing](https://img.shields.io/badge/-Signal_Processing-8A2BE2?logoColor=white) ![ML Pipeline Architecture](https://img.shields.io/badge/-ML_Pipeline_Architecture-F7931E?logoColor=white)
+
+**4. Systems & Hardware**
+
+![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?logo=arch-linux&logoColor=white) ![PC Hardware](https://img.shields.io/badge/-PC_Building_&_Hardware-4D4D4D?logoColor=white)
 
 ### 🌲 Beyond the Screen
 Growing up partly in Switzerland taught me how to adapt to new cultures and build bridges—a philosophy I carry into my multidisciplinary work. When I'm offline, you can find me:
